@@ -14,6 +14,7 @@ Feel free to get in touch!
 ## Contact 📫 
 - Linkedin: [linkedin-profile-hugo-astier](https://www.linkedin.com/in/hugo-astier/) 
 - Email: iamhugoastier at gmail dot com
+- [CV](https://raw.githubusercontent.com/hugo-astier/hugo-astier/main/CV-Hugo-Astier.pdf)
 
 
 <!--

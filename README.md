@@ -2,12 +2,12 @@
 
 🔭 I craft web apps.
 
-JS is my daily cup of tea but whichever the language, X or Y framework... At the core it's all the same: DS & Algos.<br>
+JS is my daily cup of tea but whatever the language, or framework, at the core it's the same good olds DS & Algos.<br>
 What only matters is the right tool for the task at hand 💪
 
 ♥ : When I'm not hacking I'm usually in the mountains rock-climbing, summiting, or trail-running 🏔️ 
 
-Currently located in Marseille, France, enjoying sunshine almost every day ☀️  but enjoying collaborating in english 🇬🇧 
+Currently located in Marseille, France, enjoying sunshine every day ☀️
 
 Feel free to get in touch!
 

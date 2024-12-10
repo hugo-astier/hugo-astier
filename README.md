@@ -7,8 +7,6 @@ What only matters is the right tool for the task at hand 💪
 
 ♥ : When I'm not hacking I'm usually in the mountains rock-climbing, summiting, or trail-running 🏔️ 
 
-Currently located in Marseille, France, enjoying sunshine every day ☀️
-
 Feel free to get in touch!
 
 ## Contact 📫 
